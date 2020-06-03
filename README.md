@@ -1,8 +1,6 @@
 
 # On *academic supervision questionnaire*
 
-This repository contains a [questionnaire](academic_supervision_questionnaire.md) that the supervisor shares with the student (supervisee) who is starting to work on her/his master’s or PhD thesis work.  
-
 This repository contains a questionnaire ([markdown](academic_supervision_questionnaire.md), [PDF](academic_supervision_questionnaire.pdf)) that the supervisor shares with the student (supervisee) who is starting to work on her/his master’s or PhD thesis work.
 
 The supervisee is then given enough time (few days to a week) with the questionnaire to reflect on her/his answers and conceptions and to externalize them by writing them down.  
