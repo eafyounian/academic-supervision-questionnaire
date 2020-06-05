@@ -1,5 +1,6 @@
-
 # On *academic supervision questionnaire*
+
+[![DOI](https://zenodo.org/badge/269099157.svg)](https://zenodo.org/badge/latestdoi/269099157)
 
 This repository contains a questionnaire ([markdown](academic_supervision_questionnaire.md), [PDF](academic_supervision_questionnaire.pdf)) that the supervisor shares with the student (supervisee) who is starting to work on her/his master’s or PhD thesis work.
 
