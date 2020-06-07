@@ -16,6 +16,9 @@ The questions in the questionnaire are based on concepts from peer-reviewed scie
 
 :gem: Please feel free to use, give feedback and suggest improvements.  
 
-## References  
+## References
 
-- [ ] TODO: add references
+* Vermunt, J. and Verloop, N., 1999. Congruence and friction between learning and teaching. Learning and Instruction, 9(3), pp.257-280.
+  * :bulb: _In this article, the authors point out possible consequences resulting from differences in the level of regulation exerted by the teacher (supervisor) and the student (supervisee)._
+
+- [ ] TODO: add more reference(s)
