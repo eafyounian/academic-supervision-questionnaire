@@ -18,6 +18,8 @@ The questions in the questionnaire are based on concepts from peer-reviewed scie
 
 ## References
 
+* Murtonen, M., Olkinuora, E., Tynjälä, P. and Lehtinen, E., 2008. “Do I need research skills in working life?”: University students’ motivation and difficulties in quantitative methods courses. Higher Education, 56(5), pp.599-612.
+  * :bulb: _In this article, the authors assess students' views on research skills and their use in real life after graduation_
 * Vermunt, J. and Verloop, N., 1999. Congruence and friction between learning and teaching. Learning and Instruction, 9(3), pp.257-280.
   * :bulb: _In this article, the authors point out possible consequences resulting from differences in the level of regulation exerted by the teacher (supervisor) and the student (supervisee)._
 
